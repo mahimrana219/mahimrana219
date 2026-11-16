@@ -68,9 +68,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Agency CRM System](https://github.com/mahimrana219/agency-crm-system) | CRM and marketing suite for agencies: leads, clients, tasks, role-based access | MERN · JWT · RBAC |
+| [Agency Solutions CRM](https://github.com/mahimrana219/agency-crm-system) | All-in-one CRM for agencies & freelancers: leads, clients, projects, PDF invoices, contracts, payroll, attendance | React 19 · Tailwind · MERN |
+| [LuxuryStay Hotel Management](https://github.com/mahimrana219/luxurystay-hotel-management) | Hotel management system with Admin, Manager, Receptionist, Housekeeping and Guest portals: bookings, rooms, billing, housekeeping | React 19 · Tailwind · MERN |
 
-> 🔒 Most of my client work (hotel management, dental clinic, business websites) is private under client agreements. Happy to walk through it on a call.
+> 🔒 Some client work (dental clinic, solar and e-commerce sites) is private under client agreements. Happy to walk through it on a call.
 
 ---
 
